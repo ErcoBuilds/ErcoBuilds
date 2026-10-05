@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi, I'm Enrico 👋
 
-<!--
-**ErcoBuilds/ErcoBuilds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```python
+class Enrico:
+    def __init__(self):
+        self.role = "Software Developer in the making"
+        self.focus = "Application Development"
+        self.languages = ["Python"]
+        self.currently_learning = ["Software architecture", "Clean code"]
+        self.mindset = "Always building, always improving"
 
-Here are some ideas to get you started:
+    def say_hi(self):
+        return "Thanks for stopping by — take a look around."
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+me = Enrico()
+print(me.say_hi())
+```
+
+---
+
+### 🚀 About
+
+Developer focused on **application development**, turning ideas into working software.
+I build, break, and rebuild things to understand how they really work.
+
+### 🛠️ Tech
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+
+### 📌 Currently
+
+Sharpening my skills and growing this profile one project at a time.
